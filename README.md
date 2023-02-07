@@ -1,9 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=운동을%20좋아하는%20블록체인개발자&fontSize=50)
+
 ```JS
 const TeTedo = {
     Hello: "This is BlockChain Developer",
     hobby : ["Climbing","Golf","Health","Coding"],
     contract : "qkrxotjr9508@gmail.com",
     blog : "https://diary-blockchain.tistory.com/",
+    portfolio : "https://sprout-glue-1e2.notion.site/c1edbd05c58242cf9e3185da8eebaf92",
 };
 
 const addLanguages = (person)=>{
@@ -43,3 +46,5 @@ console.log(TeTedo);
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeTedo&layout=compact&theme=github_dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeTedo&show_icons=true&theme=github_dark)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
