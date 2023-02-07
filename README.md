@@ -45,6 +45,5 @@ console.log(TeTedo);
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeTedo&layout=compact&theme=github_dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeTedo&show_icons=true&theme=github_dark)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
