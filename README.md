@@ -5,7 +5,6 @@ const TeTedo = {
     hobby : ["Climbing","Golf","Health","Coding"],
     contract : "qkrxotjr9508@gmail.com",
     blog : "https://diary-blockchain.tistory.com/",
-    portfolio : "https://career.programmers.co.kr/pr/qkrxotjr9508_2916",
 };
 
 const addLanguages = (person)=>{
