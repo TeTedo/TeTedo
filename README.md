@@ -2,7 +2,6 @@
 
 ```JS
 const TeTedo = {
-    Hello: "This is BlockChain Developer",
     hobby : ["Climbing","Golf","Health","Coding"],
     contract : "qkrxotjr9508@gmail.com",
     blog : "https://diary-blockchain.tistory.com/",
