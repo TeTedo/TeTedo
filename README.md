@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=운동을%20좋아하는%20개발자&fontSize=50)
-<center>
+
+<div align='center'>
+
 <h3>🔥 Tech Stack 🔥</h3>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white"/>&nbsp;&nbsp;</p>
   
@@ -14,6 +16,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeTedo&layout=compact&theme=github_dark)
 
-</center>
+</div>  
         
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
