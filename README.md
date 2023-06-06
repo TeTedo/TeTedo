@@ -1,5 +1,5 @@
 ## 👋Hi
-### I'm Backend Developer 
+### I'm Backend Developer who loves clean code.
 
 ## 😀Who am I
 ### I think coding is writing what i think
