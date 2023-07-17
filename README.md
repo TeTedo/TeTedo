@@ -3,7 +3,7 @@
 
 ## 😀Who am I
 ### I think coding is writing what i think
-### 👉[My think Repo](https://diary-blockchain.tistory.com/)
+### 👉[My think Repo](https://blog.tetedo.com/)
 
 ## 🤔Thinking
 1. How to say what I think
