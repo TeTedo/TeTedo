@@ -1,10 +1,4 @@
 ## 👋Hi
-### I'm Backend Developer who love clean code.
+### I'm Product Engineer.
 
-## 😀Who am I
-### I think coding is writing what i think
-### 👉[My think Repo](https://blog.tetedo.com/)
-
-## 🤔Thinking
-1. How to say what I think
-2. How to ask
+### I think of a better direction for my product.
